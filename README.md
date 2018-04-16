@@ -8,3 +8,4 @@
 #### MergeTwoSortedLists -- 21
 #### RemoveDuplicatesFromSortedArray -- 26
 #### RemoveElement -- 27
+#### ImplementstrStr -- 28
