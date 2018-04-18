@@ -15,3 +15,5 @@
 #### PlusOne -- 66
 #### AddBinary -- 67
 #### Sqrt -- 69
+#### ClimbingStairs -- 70
+#### RemoveDuplicatesFromSortedList -- 83
